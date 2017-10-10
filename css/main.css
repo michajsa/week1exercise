@@ -1,0 +1,32 @@
+.nav{
+  background-color: tomato;
+  padding: 14px;
+  nargin:50px;
+}
+
+li{
+  background-color: green;
+  display: inline-block;
+  padding: 50px;
+  margin: 40px
+}
+
+.box {
+  float:left;
+  width:50%;
+}
+
+img {
+  border: 6px green;
+  width: 300px;
+  height: 300px;
+}
+.box p {
+  background-color: blue;
+  border: 7px blue;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+}
+.cyan{
+  background-color: cyan;
+}
